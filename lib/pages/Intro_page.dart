@@ -14,8 +14,13 @@ class  IntroPage extends StatelessWidget {
           children: [
             // logo
          const Icon(Icons.shopping_bag,
+
+
+
+
          size: 72,
-         color:Colors.grey,
+         color:Colors.black,
+
          
          ),
          const SizedBox(height:50),
